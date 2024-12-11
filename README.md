@@ -1,6 +1,6 @@
 # DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation
 
-[![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://dreamrunner-story2video.github.io)  [![arXiv](https://img.shields.io/badge/arXiv-2411.1665-b31b1b.svg)](https://arxiv.org/pdf/2411.16657)   
+[![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://zunwang1.github.io/DreamRunner)  [![arXiv](https://img.shields.io/badge/arXiv-2411.1665-b31b1b.svg)](https://arxiv.org/pdf/2411.16657)   
 
 #### [Zun Wang](https://zunwang1.github.io/), [Jialu Li](https://jialuli-luka.github.io/), [Han Lin](https://hl-hanlin.github.io/), [Jaehong Yoon](https://jaehong31.github.io), [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
 
