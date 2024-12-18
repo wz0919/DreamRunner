@@ -3,11 +3,9 @@
 [![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://dreamrunner-story2video.github.io)  [![arXiv](https://img.shields.io/badge/arXiv-111222333-b31b1b.svg)](https://arxiv.org/pdf/....pdf)   
 
 #### [Zun Wang](https://zunwang1.github.io/), [Jialu Li](https://jialuli-luka.github.io/), [Han Lin](https://hl-hanlin.github.io/), [Jaehong Yoon](https://jaehong31.github.io), [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
-
 <br>
 <img width="950" src="files/teaser.gif"/>
 <br>
-
 
 #### Code coming soon! Expected before December 4th, 2024.
 

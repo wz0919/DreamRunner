@@ -5,7 +5,6 @@ models/zeroscope_v2_576w
 python_scripts/cogvideox*
 outputs
 test_data/
-t2v-combench/
 t2v-combench/*/*/*.mp4
 t2v-combench/*/*.mp4
 T2V-ComBench/
