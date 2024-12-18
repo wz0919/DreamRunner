@@ -1,13 +1,13 @@
 # DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation
 
-[![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://dreamrunner-story2video.github.io)  [![arXiv](https://img.shields.io/badge/arXiv-111222333-b31b1b.svg)](https://arxiv.org/pdf/....pdf)   
+[![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://zunwang1.github.io/DreamRunner)  [![arXiv](https://img.shields.io/badge/arXiv-2411.16657-b31b1b.svg)](https://arxiv.org/pdf/2411.16657)   
 
 #### [Zun Wang](https://zunwang1.github.io/), [Jialu Li](https://jialuli-luka.github.io/), [Han Lin](https://hl-hanlin.github.io/), [Jaehong Yoon](https://jaehong31.github.io), [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
 <br>
 <img width="950" src="files/teaser.gif"/>
 <br>
 
-#### Code coming soon! Expected before December 4th, 2024.
+#### Code coming soon!
 
 ## ToDos
 - [x] Release the inference code on T2V-ComBench.
@@ -56,6 +56,6 @@ If you find our project useful in your research, please cite the following paper
     title  = {DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation},
 	journal   = {arxiv},
 	year      = {2024},
-	url       = {https://arxiv.org/abs/2411...}
+	url       = {https://arxiv.org/abs/2411.16657}
 }
 ```
