@@ -1,4 +1,4 @@
-# DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation
+# DreamRunner: Fine-Grained Compositional Story-to-Video Generation with Retrieval-Augmented Motion Adaptation
 
 [![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://zunwang1.github.io/DreamRunner)  [![arXiv](https://img.shields.io/badge/arXiv-2411.16657-b31b1b.svg)](https://arxiv.org/pdf/2411.16657)   
 
@@ -53,7 +53,7 @@ If you find our project useful in your research, please cite the following paper
 ```bibtex
 @article{zun2024dreamrunner,
     author = {Zun Wang and Jialu Li and Han Lin and Jaehong Yoon and Mohit Bansal},
-    title  = {DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation},
+    title  = {DreamRunner: Fine-Grained Compositional Story-to-Video Generation with Retrieval-Augmented Motion Adaptation},
 	journal   = {arxiv},
 	year      = {2024},
 	url       = {https://arxiv.org/abs/2411.16657}
