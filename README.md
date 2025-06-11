@@ -50,12 +50,12 @@ Please follow [T2V-ComBench](https://github.com/KaiyueSun98/T2V-CompBench) for e
 
 If you find our project useful in your research, please cite the following paper:
 
-```bibtex
-@article{zun2024dreamrunner,
-    author = {Zun Wang and Jialu Li and Han Lin and Jaehong Yoon and Mohit Bansal},
-    title  = {DreamRunner: Fine-Grained Compositional Story-to-Video Generation with Retrieval-Augmented Motion Adaptation},
-	journal   = {arxiv},
-	year      = {2024},
-	url       = {https://arxiv.org/abs/2411.16657}
-}
 ```
+@article{wang2024dreamrunner,
+  author  = {Wang, Zun and Li, Jialu and Lin, Han and Yoon, Jaehong and Bansal, Mohit},
+  title   = {DreamRunner: Fine-Grained Compositional Story-to-Video Generation with Retrieval-Augmented Motion Adaptation},
+  journal = {arXiv preprint arXiv:2411.16657},
+  year    = {2024},
+  url     = {https://arxiv.org/abs/2411.16657}
+}
+``
